@@ -37,6 +37,10 @@ ATmega32_FreeRTOS_LED/
 └── README.md
 ```
 
+## Circuit Schematic
+
+![Proteus Circuit Simulation](FreeRTOS_LED/FreeRTOS/images/circuit.jpg)
+
 ## Hardware Requirements
 
 - ATmega32 microcontroller
