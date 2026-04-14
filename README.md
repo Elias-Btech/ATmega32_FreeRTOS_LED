@@ -101,7 +101,7 @@ Key settings in `FreeRTOSConfig.h`:
 
 ## Author
 
-**Elias Araya**
-Aksum University
-Real Time and Embedded Systems
-April 2026
+**Elias Araya**  
+Aksum University  
+Real Time and Embedded Systems  
+April 2026  
