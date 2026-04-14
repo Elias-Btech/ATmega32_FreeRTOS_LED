@@ -1,0 +1,6 @@
+Copy these files from your FreeRTOS download into this folder:
+(FreeRTOS/Source/)
+
+  tasks.c
+  list.c
+  queue.c

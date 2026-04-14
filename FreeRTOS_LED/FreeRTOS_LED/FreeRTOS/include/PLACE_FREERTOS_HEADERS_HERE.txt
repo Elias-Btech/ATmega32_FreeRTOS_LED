@@ -1,0 +1,16 @@
+Copy these files from your FreeRTOS download into this folder:
+(FreeRTOS/Source/include/)
+
+  FreeRTOS.h
+  task.h
+  list.h
+  queue.h
+  portable.h
+  projdefs.h
+  semphr.h
+  croutine.h
+  deprecated_definitions.h
+  event_groups.h
+  mpu_wrappers.h
+  stack_macros.h
+  timers.h

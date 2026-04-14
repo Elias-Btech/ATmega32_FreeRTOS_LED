@@ -1,0 +1,25 @@
+# Microchip Studio build output
+**/Debug/*.o
+**/Debug/*.d
+**/Debug/*.elf
+**/Debug/*.eep
+**/Debug/*.lss
+**/Debug/*.map
+**/Debug/*.srec
+**/Debug/makedep.mk
+**/Debug/Makefile
+
+# Keep the HEX file for Proteus
+!**/Debug/*.hex
+
+# Microchip Studio IDE files
+**/.vs/
+*.atsuo
+*.componentinfo.xml
+
+# Proteus backup files
+*.pdsprj.*.workspace
+
+# Windows
+Thumbs.db
+desktop.ini

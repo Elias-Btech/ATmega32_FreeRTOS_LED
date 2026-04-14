@@ -1,0 +1,4 @@
+Copy this file from your FreeRTOS download into this folder:
+(FreeRTOS/Source/portable/MemMang/)
+
+  heap_1.c
